@@ -188,6 +188,7 @@ DATA & FILE OVERVIEW
 *List of Files: The dataset were used in the computational tests to evaluate the proposed formulations and solution strategies. It is organized into 27 classes, according to the number of different item lengths, the number of periods, and the number of different steel trusses lengths. In addition, 5 instances were generated for each class, resulting in a total of 135 instances.
 
 File sizes and formats: the data is available in .txt files.
+
 ===========================
 
 METHODOLOGICAL INFORMATION
