@@ -2,7 +2,9 @@
 
 Description in EN after PT.
 
-========================================================================================================
+=======================================================================================
+
+=======================================================================================
 
 Readme-20260201-pt.txt
 
@@ -17,22 +19,37 @@ INFORMAÇÕES GERAIS
 *Título do Conjunto de Dados: Dados de replicação para: "Formulations and solution approaches for the integrated lot-sizing and cutting stock problem applied to lattice slab production"
 
 *Informações do Autor/Investigador Principal
+
 Nome: Caroline de Arruda Signorini
+
 ORCID: 0000-0001-5343-6260
+
 Instituição: Unesp
+
 Email: caroline.signorini@unesp.br
 
-Informações do Autor/Co-investigador Associado
-Nome: Silvio Alexandre de Araujo
-ORCID: 0000-0002-4762-2048
-Instituição: Unesp
-Email: silvio.araujo@unesp.br
 
 Informações do Autor/Co-investigador Associado
+
+Nome: Silvio Alexandre de Araujo
+
+ORCID: 0000-0002-4762-2048
+
+Instituição: Unesp
+
+Email: silvio.araujo@unesp.br
+
+
+Informações do Autor/Co-investigador Associado
+
 Nome: Raf Jans
+
 ORCID: 0000-0001-8510-5677
+
 Instituição: HEC Montréal
+
 Email: raf.jans@hec.ca
+
 
 *Data de coleta dos dados: entre 2017-06-01 e 2018-06-01.
 
@@ -63,23 +80,41 @@ INFORMAÇÕES METODOLÓGICAS
 INFORMAÇÕES ESPECÍFICAS PARA OS DADOS: Cl**Ex++.txt que significa Class ** do Exemplo ++, onde ** varia entre 01 e 27, e ++ varia entre 01 e 05.
 
 Variáveis: Conforme a disposição dos elementos no arquivo, são lidos os seguintes parâmetros:
+
 I = conjunto de item (índice i);
+
 P = conjunto de períodos (índice p);
+
 L = conjunto de treliças de tamanho padrão (índice l);
+
 KC[p] = conjunto de moldes disponíveis no período p;
-WC = tamanho dos moldes (objetos)
+
+WC = tamanho dos moldes (objetos);
+
 N = número de seções em um molde;
+
 WS[l] = tamanho da treliça l (objeto);
+
 KS[l] = número de treliças l disponíveis no estoque no início do primeiro período;
+
 w[i] = tamanho do item i;
+
 d[i][p] = demanda para o item i no período p;
+
 sc_mold[p] = custo de setup para um molde no período p;
+
 sc_pat[p] = custo de setup para utilizar um padrão de corte em uma seção do molde no período p;
+
 c_C[p] = custo de produção de uma seção do molde por unidade de comprimento no período p;
+
 c_S[p] = custo de corte de treliça por unidade de comprimento no período p;
+
 pc_S[l][p] = custo de compra por metro de treliça l no período p;
+
 hC[i][p] = custo de estoque para i no período p;
+
 hS[i][p] = custo de estoque para uma treliça de tamanho w[i] no período p.
+
 ==========================
 
 INFORMAÇÕES DE COMPARTILHAMENTO/ACESSO
@@ -87,8 +122,9 @@ INFORMAÇÕES DE COMPARTILHAMENTO/ACESSO
 Licenças/restrições aplicadas aos dados: CCBY
 
 
+=======================================================================================
 
-========================================================================================================
+=======================================================================================
 
 Readme-20260201-en.txt
 
@@ -104,22 +140,38 @@ Dataset Title: Replication Data for "Formulations and solution approaches for th
 
 
 Principal Investigator/Author Information
+
 Name: Caroline de Arruda Signorini
+
 ORCID: 0000-0001-5343-6260
+
 Institution: Unesp
+
 Email: caroline.signorini@unesp.br
 
-Co-Investigator/Author Information
-Name: Silvio Alexandre de Araujo
-ORCID: 0000-0002-4762-2048
-Institution: Unesp
-Email: silvio.araujo@unesp.br
 
 Co-Investigator/Author Information
+
+Name: Silvio Alexandre de Araujo
+
+ORCID: 0000-0002-4762-2048
+
+Institution: Unesp
+
+Email: silvio.araujo@unesp.br
+
+
+Co-Investigator/Author Information
+
 Name: Raf Jans
+
 ORCID: 0000-0001-8510-5677
+
 Institution: HEC Montréal
+
 Email: raf.jans@hec.ca
+
+
 
 *Data collection date: 2017-06-01 to 2018-06-01
 
@@ -149,25 +201,44 @@ METHODOLOGICAL INFORMATION
 DATA-SPECIFIC INFORMATION FOR: Cl**Ex++.txt for Class ** from Example ++, where ** ranges from 01 to 27 and ++ ranges from 01 to 05.
 
 Variables: According to the disposal of the elements in the file there are the following parameters:
+
 I = set of items (index i);
+
 P = set of periods (index p);
+
 L = set of steel trusses with standard lengths (index l);
+
 KC[p] = set of available molds in period p;
+
 WC = length of molds (objects);
+
 N = number of sections in a mold;
+
 WS[l] = length of steel truss l (object);
+
 KS[l] = number of steel trusses l available in stock at the beginning of the first period;
+
 w[i] = length of item i;
+
 d[i][p] = demand of item i in period p;
+
 sc_mold[p] = setup cost of a mold in period p;
+
 sc_pat[p] = setup cost for using a cutting pattern in a mold section in period p;
+
 c_C[p] = mold section production cost per unit length in period p;
+
 c_S[p] = steel truss cutting cost per unit length in period p;
+
 pc_S[l][p] = purchase cost per meter of steel truss l in period p;
+
 hC[i][p] = inventory cost of item i in period p;
+
 hS[i][p] = inventory cost of steel truss of length w[i] in period p.
 
-==========================
+=======================================================================================
+
+=======================================================================================
 
 SHARING/ACCESS INFORMATION
 
