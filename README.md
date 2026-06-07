@@ -1,6 +1,6 @@
-Data used in the research for the paper FORMULATIONS AND SOLUTION APPROACHES FOR THE INTEGRATED LOT-SIZING AND CUTTING STOCK PROBLEM APPLIED TO LATTICE SLAB PRODUCTION.
+## Replication Data for "Formulations and solution approaches for the integrated lot-sizing and cutting stock problem applied to lattice slab production"
 
-PT / EN:
+Description in EN after PT.
 
 ========================================================================================================
 
@@ -10,14 +10,11 @@ Readme-20260201-pt.txt
 
 Este arquivo readme foi gerado em 2026-02-01 por Caroline de Arruda Signorini.
 
-
 ======================
 
 INFORMAÇÕES GERAIS
 
 *Título do Conjunto de Dados: Dados de replicação para: "Formulations and solution approaches for the integrated lot-sizing and cutting stock problem applied to lattice slab production"
-DOI do conjunto de dados: <PARA AUTORES QUE DEPOSITARAM MANUALMENTE NO SCIELO DATA, o DOI está disponível na página inicial do conjunto, no quadrado azul após o título>.
-<DEMAIS AUTORES: Não preencher>
 
 *Informações do Autor/Investigador Principal
 Nome: Caroline de Arruda Signorini
@@ -104,7 +101,7 @@ This README file was generated on 2026-02-01 by Caroline de Arruda Signorini.
 GENERAL INFORMATION
 
 Dataset Title: Replication Data for "Formulations and solution approaches for the integrated lot-sizing and cutting stock problem applied to lattice slab production"
-Dataset DOI: ---
+
 
 Principal Investigator/Author Information
 Name: Caroline de Arruda Signorini
